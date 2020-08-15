@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'TimeTrackerBlueprint', human_name: 'Time Tracker', access_route: 'TimeTrackerBlueprint'},
 { name: 'AchievementBlueprint', human_name: 'Achievements', access_route: 'AchievementBlueprint'},
 { name: 'AddItemBlueprint', human_name: 'Add Item', access_route: 'AddItemBlueprint'},
 { name: 'ContactsBlueprint', human_name: 'Contacts', access_route: 'ContactsBlueprint'},
