@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'Calendar', human_name: 'Calendar', access_route: 'Calendar', icon: 'calendar'},
 { name: 'Maps', human_name: 'Maps', access_route: 'Maps', icon: 'map'},
 { name: 'BlankBlueprint', human_name: 'Blank', access_route: 'BlankBlueprint'},
 { name: 'SignIn04Blueprint', human_name: 'SignIn 4', access_route: 'SignIn04Blueprint'},
